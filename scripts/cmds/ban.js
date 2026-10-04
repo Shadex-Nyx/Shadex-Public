@@ -82,7 +82,7 @@ module.exports = {
     name: "ban",    
     aliases: ["blacklist", "block"],    
     version: "4.1.0",    
-    author: "Shade × Gemini",    
+    author: "Shade",    
     countDown: 3,    
     role: 2,    
     description: "Systeme d'exclusion et de bannissement graphique complet (Owner Only)",    
