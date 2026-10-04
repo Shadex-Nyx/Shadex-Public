@@ -85,3 +85,14 @@ jobs:
 
       - name: Start application
         run: npm start
+
+📜 Credits & Code of Honor
+<p align="center">
+<img src="https://img.shields.io/badge/RESPECT-AUTHORS_CREDITS-9400D3?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/COMMUNITY-KEEP_ORIGINAL_CREDITS-00D2FF?style=for-the-badge&logo=open-source-initiative" />
+</p>
+> 📢 Note importante aux développeurs & utilisateurs
+> Je vous laisse forker mon fork en toute liberté ! Vous pouvez l'adapter, l'héberger et ajouter vos propres fonctionnalités.
+> ⚠️ S'il vous plaît, une seule condition :
+> Veuillez ne pas modifier ni supprimer les noms des auteurs et collaborateurs originaux. Merci de respecter le travail accompli ! 💜
+> 
